@@ -1,0 +1,1 @@
+worker: python KING_OFFICIAL_STORE_ALL_BACK.py
